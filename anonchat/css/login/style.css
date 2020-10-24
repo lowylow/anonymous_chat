@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(49, 49, 49);
+}
+div#main{
+    width: 100%;
+    height: 100%;
+}
+
+#username{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    width: 40vh;
+}
+#enter{
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    width: 40vh;
+}

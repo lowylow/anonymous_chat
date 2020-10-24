@@ -1,0 +1,11 @@
+!/checknewmsg.php!
+<= Get only 50 messages, but store all of the messages on an admin
+only page.
+<= Get the data of when the message is sent and show it on
+client side.
+
+!/chat.php!
+<= Show current users on the page.
+
+!/css/chat/style.css!
+<= Research on how to make css animations slowly reverse
